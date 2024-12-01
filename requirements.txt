@@ -1,0 +1,19 @@
+ipykernel
+pandas
+numpy
+matplotlib
+plotly
+seaborn
+scikit-learn
+from_root
+dill
+certifi
+gdown
+django
+dvc
+mlflow==2.2.2
+notebook
+python-box==6.0.2
+pyYAML
+ensure
+-e .
